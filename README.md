@@ -1,5 +1,1 @@
-# leon-gitstats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonchangzhy&count_private=true&show_icons=true&theme=radical)
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=leonchangzhy&theme=dark&date_format=j%2Fn%5B%2FY%5D)
-![trophy](https://github-profile-trophy.vercel.app/?username=leonchangzhy&theme=onedark)
-
+![chat](https://gist.githubusercontent.com/leonchangzhy/b8deb0146538dcd0dc742f86778b95f6/raw/7559c41902e03b12f55b1b2b3af4f561ee2c7091/profile.svg)
